@@ -1,5 +1,5 @@
 ## I'm Leon! Nice to meet you👋 
-## Recent Graduate Computer Engineering Student at St. Mary's University
+# Computer Engineering Graduate | Artificial Intelligence & Software Development Enthusiast
 
 <!--
 **LeonHarb/LeonHarb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
