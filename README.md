@@ -1,4 +1,4 @@
-# 👨‍💻 Leon Harb — Software Engineer | Cloud & Backend Developer
+# 👨‍💻 Leon Harb — Computer Engineering Graduate | Artificial Intelligence, Cloud & Software Development Enthusiast
 
 Welcome to my portfolio repository!  
 I’m **Leon Harb**, a Computer Engineer passionate about **software design, backend systems, and scalable cloud applications**.  
