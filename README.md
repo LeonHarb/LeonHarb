@@ -80,7 +80,7 @@ Supported UAV reliability research through 3D modeling and subsystem testing.
 
 ## 📫 Let’s Connect
 - 📧 **Email:** [leon.s.harb@gmail.com](mailto:leon.s.harb@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/leonharb](https://www.linkedin.com/in/leonharb)  
+- 💼 **LinkedIn:** [linkedin.com/in/leonharb](https://www.linkedin.com/in/leon-harb/)  
 - 💻 **GitHub:** [github.com/LeonHarb](https://github.com/LeonHarb)
 
 ---
