@@ -38,17 +38,22 @@ I enjoy developing intelligent and efficient systems that solve real-world probl
 
 ### 🧩 [Habit Tracker](https://github.com/LeonHarb/habit-tracker) – Cloud-Native Web App
 **Tech Stack:** Java, Spring Boot, Docker, Kubernetes, PostgreSQL  
-- Built RESTful APIs for user authentication and habit tracking  
-- Containerized backend/database services with Docker  
-- Deployed on Kubernetes with persistent storage and scalability  
-- Integrated HTML/CSS/JS frontend with backend endpoints  
-- Collaborated via GitHub using Agile workflow and code reviews  
+- Developed a collaborative full-stack web application that enables teams to create, track, and manage daily habits and tasks
+- Built the backend using Java Spring Boot, integrated a PostgreSQL database via Spring Data JPA/Hibernate
+- Implemented secure RESTful APIs for user authentication and CRUD operations
+- Designed an interactive HTML, CSS, JavaScript frontend that communicates with the backend through API calls
+- Containerized the system using Docker and deployed it via Kubernetes on Chameleon Cloud for scalability and portability
+- Collaborated with a team of three using Git/GitHub for version control and task management
+ 
 
 ### ⚙️ [UltraGPS](https://github.com/LeonHarb/UltraGPS-Indoor-Localization-System) – Indoor Localization System
 **Tech Stack:** Arduino, C++, MATLAB, SolidWorks  
-- Designed ultrasonic localization for mini-tractor tracking in GPS-denied environments  
-- Achieved ±2 cm accuracy using synchronized transmitters/receivers  
-- Developed 3D-printed hardware enclosures and optimized calibration algorithms  
+- Developed an indoor localization system for an RTK mini-tractor using Arduino and ultrasonic sensors, enabling real-time tracking in GPS-denied environments across 4 high-schools robotics programs
+- Programmed synchronization and Time-of-flight routines in C++, ensuring consistent, low-latency data across 6 receiver nodes
+- Implemented real-time position tracking in MATLAB, achieving ±2 cm accuracy and stable 5 Hz update rates
+- Designed the transmitter tower, receiver mounts, and enclosures in SolidWorks, optimizing rapid setup and portability
+- Reduced calibration time by 80% (10 → 2 minutes) through algorithm and UI improvements in calibration software
+ 
 
 
 ---
