@@ -36,7 +36,7 @@ I enjoy developing intelligent and efficient systems that solve real-world probl
 
 ## 🚀 Featured Projects
 
-### 🧩 [Habit Tracker – Cloud-Native Web App](https://github.com/LeonHarb/habit-tracker)
+### 🧩 [Habit Tracker](https://github.com/LeonHarb/habit-tracker) – Cloud-Native Web App
 **Tech Stack:** Java, Spring Boot, Docker, Kubernetes, PostgreSQL  
 - Built RESTful APIs for user authentication and habit tracking  
 - Containerized backend/database services with Docker  
@@ -44,17 +44,12 @@ I enjoy developing intelligent and efficient systems that solve real-world probl
 - Integrated HTML/CSS/JS frontend with backend endpoints  
 - Collaborated via GitHub using Agile workflow and code reviews  
 
-### ⚙️ UltraGPS – Indoor Localization System
+### ⚙️ [UltraGPS](https://github.com/LeonHarb/UltraGPS-Indoor-Localization-System) – Indoor Localization System
 **Tech Stack:** Arduino, C++, MATLAB, SolidWorks  
 - Designed ultrasonic localization for mini-tractor tracking in GPS-denied environments  
 - Achieved ±2 cm accuracy using synchronized transmitters/receivers  
 - Developed 3D-printed hardware enclosures and optimized calibration algorithms  
 
-### ☁️ Backend API Development – Areeba, S.A.L
-**Tech Stack:** Spring Boot, JPA, Feign Clients, Hibernate, JUnit  
-- Implemented scalable microservices with third-party integrations  
-- Designed relational schemas for financial APIs  
-- Reduced technical debt via code refactoring and SonarQube analysis  
 
 ---
 
