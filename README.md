@@ -36,7 +36,7 @@ I enjoy developing intelligent and efficient systems that solve real-world probl
 
 ## 🚀 Featured Projects
 
-### 🧩 [Habit Tracker – Cloud-Native Web App](https://github.com/LeonHarb/HabitTracker)
+### 🧩 [Habit Tracker – Cloud-Native Web App](https://github.com/LeonHarb/habit-tracker)
 **Tech Stack:** Java, Spring Boot, Docker, Kubernetes, PostgreSQL  
 - Built RESTful APIs for user authentication and habit tracking  
 - Containerized backend/database services with Docker  
