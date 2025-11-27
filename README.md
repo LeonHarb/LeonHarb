@@ -1,93 +1,105 @@
-# 👨‍💻 Leon Harb — Computer Engineering Graduate | Artificial Intelligence, Cloud & Software Development Enthusiast
+# 👨‍💻 Leon Harb — Software & Systems Engineer | Computer Engineering Graduate
 
 Welcome to my portfolio repository!  
-I’m **Leon Harb**, a Computer Engineer passionate about **software design, backend systems, and scalable cloud applications**.  
-This portfolio highlights my technical expertise, projects, and certifications in modern software engineering.
+I’m **Leon Harb**, a Computer Engineer focused on **software quality, backend systems, and system-level design** across hardware, software, and cloud.
+
+This portfolio highlights my technical projects, engineering experience, and certifications.
 
 ---
 
 ## 🧠 About Me
+
 🎓 **B.S. in Computer Engineering** — St. Mary’s University, San Antonio, TX  
 📍 Based in San Antonio, TX | Fluent in **English**, **French**, **Arabic**, and **Spanish**
 
-I enjoy developing intelligent and efficient systems that solve real-world problems. My work spans **backend engineering**, **embedded systems**, and **cloud-native applications**, with a focus on reliability, scalability, and clean architecture.
+I’m a fast learner, critical thinker, and systems-oriented engineer. I like to understand technology from the system level down to each component—how hardware, firmware, and software work together.
+
+During my degree, I worked in the **St. Mary’s Drone & Technology Lab**, built projects in **digital systems, microprocessors, and embedded design**, and completed a capstone **indoor localization system (UltraGPS)** using Arduinos, RF, ultrasonic sensors, RTK, MATLAB, Python, and SolidWorks, achieving ~2 cm accuracy.
+
+In my final semester at **UTSA**, I focused on **Computer Architecture, Organization, and Cloud Computing**, where I helped build and deploy a full-stack **Habit Tracker** using **Java Spring Boot, PostgreSQL, Docker, and Kubernetes**, which led me to pursue my **AWS Cloud Practitioner certification**.
+
+Today, I work at **Dripping Wet Water, Inc.** (an OEM for chlorine dioxide generator systems) as a **Software & Systems Engineer** and **Computer-Aided Design Engineer**. I:
+
+- Lead **software quality assurance** and feature validation for controller software  
+- Support **hardware–software integration** with external vendors  
+- Own **SolidWorks assemblies, engineering drawings, and documentation** used by manufacturing and customers  
+
+I am currently pursuing the **PMI CAPM certification** to strengthen my project management skills and better lead engineering projects throughout my career.
 
 ---
 
 ## 🧰 Technical Skills
 
-**Languages:** Java, C/C++, Python, C#, SQL, HTML, CSS, JavaScript, Assembly (x86-64), VHDL  
-**Frameworks:** Spring Boot, .NET, React.js, Node.js, Express.js, Django, JPA, Hibernate, JDBC, REST APIs, JUnit  
-**Tools & Platforms:** Docker, Kubernetes, AWS, Azure, Oracle Cloud, Hadoop, MapReduce, Postman, Git, SolidWorks, Wireshark  
-**Concepts:** OOP, Data Structures, Algorithms, SDLC, Agile/Scrum, CI/CD Pipelines, API Design, Microservices  
+**Languages:** Java, C, C++, Python, SQL, MATLAB, Arduino, VHDL, Assembly (x86-64)  
+**Frameworks & Libraries:** Spring Boot, JPA/Hibernate, REST APIs, JUnit  
+**Tools & Platforms:** Docker, Kubernetes, AWS, PostgreSQL, pgAdmin, Git/GitHub, Postman, SolidWorks, Wireshark  
+**Concepts:** Object-Oriented Programming, Data Structures & Algorithms, Systems Engineering, Embedded Systems, API Design, Microservices, Software Testing & QA, Cloud Fundamentals  
 
 ---
 
 ## 🧾 Certifications
 
-- **Oracle** – Java SE 8 Associate | Cloud & AI Specialization | *Professional Java SE 8 (in progress)*  
-- **IBM** – Backend Development with Node.js & Express | Frontend Development with React | Django with SQL  
-- **Google** – Java Microservices with Spring Boot | Agile Project Management | Prompting Essentials  
-- **PMI** – Certified Associate in Project Management (**CAPM**)  
-- **Amazon** – Full-Stack Web Development (in progress) | Data Structures & Algorithms (in progress)  
-- **DeepLearning.AI** – Intro to Generative AI for Software Development | Team Software Engineering with AI  
+- **Oracle Certified Associate – Java SE 8 Programmer I**  
+- **AWS Certified Cloud Practitioner**  
+- **PMI – Certified Associate in Project Management (CAPM)** *(in progress)*  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧩 [Habit Tracker](https://github.com/LeonHarb/habit-tracker) – Cloud-Native Web App
-**Tech Stack:** Java, Spring Boot, Docker, Kubernetes, PostgreSQL  
-- Developed a collaborative full-stack web application that enables teams to create, track, and manage daily habits and tasks
-- Built the backend using Java Spring Boot, integrated a PostgreSQL database via Spring Data JPA/Hibernate
-- Implemented secure RESTful APIs for user authentication and CRUD operations
-- Designed an interactive HTML, CSS, JavaScript frontend that communicates with the backend through API calls
-- Containerized the system using Docker and deployed it via Kubernetes on Chameleon Cloud for scalability and portability
-- Collaborated with a team of three using Git/GitHub for version control and task management
- 
+**Tech Stack:** Java, Spring Boot, PostgreSQL, Docker, Kubernetes  
+- Designed and implemented the backend using **Spring Boot** with **Spring Data JPA/Hibernate** and PostgreSQL  
+- Built secure **RESTful APIs** for user authentication and CRUD operations  
+- Used **Postman** for API testing and documentation  
+- Containerized services with **Docker** and deployed on **Chameleon Cloud** using **Kubernetes** for scalability  
+- Collaborated with a teammate who implemented the HTML/CSS/JavaScript frontend, integrating via REST APIs  
 
 ### ⚙️ [UltraGPS](https://github.com/LeonHarb/UltraGPS-Indoor-Localization-System) – Indoor Localization System
 **Tech Stack:** Arduino, C++, MATLAB, SolidWorks  
-- Developed an indoor localization system for an RTK mini-tractor using Arduino and ultrasonic sensors, enabling real-time tracking in GPS-denied environments across 4 high-schools robotics programs
-- Programmed synchronization and Time-of-flight routines in C++, ensuring consistent, low-latency data across 6 receiver nodes
-- Implemented real-time position tracking in MATLAB, achieving ±2 cm accuracy and stable 5 Hz update rates
-- Designed the transmitter tower, receiver mounts, and enclosures in SolidWorks, optimizing rapid setup and portability
-- Reduced calibration time by 80% (10 → 2 minutes) through algorithm and UI improvements in calibration software
- 
-
+- Developed an indoor localization system for an RTK-enabled mini-tractor in GPS-denied environments  
+- Programmed synchronization and time-of-flight routines in **C++** across 6 receiver nodes  
+- Implemented real-time position tracking in **MATLAB**, achieving ±2 cm accuracy at ~5 Hz  
+- Designed transmitter and receiver mounts and enclosures in **SolidWorks** for rapid setup and portability  
 
 ---
 
 ## 🧪 Experience Highlights
 
-**Software Engineering Intern — Hatchbed, LLC (Aug 2024 – May 2025)**  
-Developed embedded systems for real-time tracking and improved calibration performance by 80%.
+**Software & Systems / CAD Engineer — Dripping Wet Water, Inc.**  
+- Lead QA and validation for controller software used in chlorine dioxide generator systems  
+- Coordinate hardware–software integration with external controller and software vendors  
+- Maintain large **SolidWorks** assemblies, engineering drawings, and BOMs for manufacturing and customer documentation  
 
-**Backend Engineering Intern — Areeba S.A.L (May 2024 – Aug 2024)**  
-Built and tested REST APIs in a microservices architecture with Spring Boot.
+**Backend Engineering Intern — Areeba S.A.L**  
+- Built and tested **REST APIs** in a **microservices** architecture using **Spring Boot**  
+- Used **JUnit** and **Postman** to validate functionality and reliability of services  
 
-**IT Support Technician — St. Mary’s University (Aug 2022 – Jan 2024)**  
-Resolved 100+ technical issues and trained users in Microsoft Office and connectivity systems.
+**IT Support Technician — St. Mary’s University**  
+- Resolved 100+ technical issues for faculty, staff, and students  
+- Supported classroom technology, networking, and Microsoft 365 tools  
 
-**Drone Research & CAD Intern — St. Mary’s University (2021 – 2022)**  
-Supported UAV reliability research through 3D modeling and subsystem testing.
+**Drone & Technology Lab Assistant — St. Mary’s University**  
+- Supported drone and electronic vehicle projects through subsystem testing and **SolidWorks** modeling  
 
 ---
 
 ## 🧭 Interests
-- Cloud Architecture & DevOps  
-- Backend Scalability & Optimization  
-- Embedded Systems & IoT  
-- AI-Augmented Software Development  
-- Open-Source Collaboration  
+
+- Systems Engineering & Hardware–Software Integration  
+- Backend Development & API Design  
+- Cloud & Containerized Deployments (AWS, Docker, Kubernetes)  
+- Embedded Systems & Real-Time Applications  
+- Engineering Documentation & Process Improvement  
 
 ---
 
 ## 📫 Let’s Connect
+
 - 📧 **Email:** [leon.s.harb@gmail.com](mailto:leon.s.harb@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/leonharb](https://www.linkedin.com/in/leon-harb/)  
 - 💻 **GitHub:** [github.com/LeonHarb](https://github.com/LeonHarb)
 
 ---
 
-⭐ *“Engineering for Intelligence — combining hardware precision with software innovation.”*  
+⭐ *“Combining hardware precision with software reliability to build robust engineering systems.”*
