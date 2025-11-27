@@ -1,4 +1,4 @@
-# 👨‍💻 Leon Harb — Software & Systems Engineer | Computer Engineering Graduate
+# 👨‍💻 Leon Harb — Computer Engineering Graduate | Software & Systems Engineer | SolidWorks CAD Designer | Oracle Java Certified | AWS Cloud Practitioner | CAPM® Candidate
 
 Welcome to my portfolio repository!  
 I’m **Leon Harb**, a Computer Engineer focused on **software quality, backend systems, and system-level design** across hardware, software, and cloud.
