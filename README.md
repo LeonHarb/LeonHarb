@@ -1,5 +1,5 @@
 # 👨‍💻 Leon Harb  
-**Computer Engineering Graduate | Systems & Software Engineer | SolidWorks CAD Designer
+**Computer Engineering Graduate | Systems & Software Engineer | SolidWorks CAD Designer**
 
 Welcome to my portfolio repository.  
 I’m **Leon Harb**, a Computer Engineering graduate with experience in **systems engineering, backend software development, embedded systems, and hardware–software integration**.
